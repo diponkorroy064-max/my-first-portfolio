@@ -216,13 +216,13 @@ body {
     gap: 25px;
 }
 
-#footer {
+#footer-container {
     border-top: 1.5px solid #59484890;
-    box-shadow: 0 8px rgba(164, 146, 146, 0.824);
+    box-shadow: 5px 5px black;
     width: 100%;
     text-align: center;
     margin: auto 0;
-    padding: 17px 0;
+    padding: 17px 17px;
 }
 
 /*responsiveness*/
